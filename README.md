@@ -1,4 +1,4 @@
-### Нчало пути.
+### Нчало пути :)
 
 <!--
 **sawaz0r/sawaz0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
